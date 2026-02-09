@@ -1,3 +1,9 @@
+> **本仓库已迁移至 [knowlyr-agent](https://github.com/liuxiaotong/knowlyr-agent) monorepo (`packages/reward/`)，此仓库不再更新。**
+>
+> This repo has been moved to [knowlyr-agent](https://github.com/liuxiaotong/knowlyr-agent) monorepo (`packages/reward/`). This repo is archived.
+
+---
+
 <div align="center">
 
 # AgentReward
